@@ -1,0 +1,4 @@
+WPU RESOLUSI
+- Konsisten untuk membuat koneten 2x seminggu
+- Membuat platform untuk pengelolaan video
+- Membuat form diskusi
